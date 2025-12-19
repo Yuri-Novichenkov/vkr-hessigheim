@@ -1,0 +1,12 @@
+# большие данные
+LiDAR/
+data/
+*.laz
+*.las
+*.txt
+
+# мусор
+venv/
+__pycache__/
+.ipynb_checkpoints/
+Материал/~$*
